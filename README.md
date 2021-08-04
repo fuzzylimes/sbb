@@ -2,7 +2,7 @@
 SBB is a template for quickly bootstrapping Svelte apps with Bulma. Simply press the "Use this template" button to start your next project!
 
 ## What comes with SBB?
-* Svelte - duh
+* Svelte
 * Bulma library
 * [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - basic routing support for svelte app
 * Configured Navbar component

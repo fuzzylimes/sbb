@@ -1,7 +1,7 @@
 <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
     <div class="container">
         <div class="navbar-brand">
-            <a class="navbar-item is-size-4" href="/">
+            <a class="navbar-item is-size-4" href="#/">
                 <span class="icon-text">
                     <span><strong>Svelte-Bulma-Boilerplate</strong></span>
                 </span>
@@ -30,8 +30,12 @@
 <script>
     let links = [
         {
-            url: "#/",
-            text: "Home"
+          url: "#/",
+          text: "Home"
+        },
+        {
+          url: '#/about',
+          text: "About"
         }
     ]
     
